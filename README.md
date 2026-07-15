@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset
 
 ## Project Structure
 
-
+```
 Assignment2/
 │
 ├── AI_vs_Human_Image_Classification.ipynb
@@ -34,6 +34,7 @@ Assignment2/
 ├── requirements.txt
 ├── README.md
 └── data/
+```
 
 
 
