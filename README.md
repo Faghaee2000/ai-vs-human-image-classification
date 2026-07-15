@@ -21,7 +21,7 @@ Dataset: AI vs. Human-Generated Images
 Source:
 https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset
 
----
+
 
 ## Project Structure
 
