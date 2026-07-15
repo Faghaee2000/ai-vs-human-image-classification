@@ -12,7 +12,7 @@ Three different models were implemented and compared:
 
 The models were evaluated using Accuracy, Precision, Recall, F1-score, Confusion Matrix, and GradCAM visualization.
 
----
+
 
 ## Dataset
 
@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset
 
 ## Project Structure
 
-```
+
 Assignment2/
 │
 ├── AI_vs_Human_Image_Classification.ipynb
@@ -34,9 +34,9 @@ Assignment2/
 ├── requirements.txt
 ├── README.md
 └── data/
-```
 
----
+
+
 
 ## Requirements
 
@@ -46,7 +46,7 @@ Install the required packages using:
 pip install -r requirements.txt
 ```
 
----
+
 
 ## Models
 
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 - ResNet50
 - EfficientNet-B0
 
----
+
 
 ## Results
 
@@ -64,7 +64,7 @@ ResNet50 obtained the best overall results, followed by EfficientNet-B0.
 
 GradCAM was used to visualize the regions that influenced the predictions of the best-performing model.
 
----
+
 
 ## Author
 
